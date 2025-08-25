@@ -1,0 +1,5 @@
+Subject 1: 71
+Subject 2: 65
+Subject 3: 76
+Total: 212
+Average: 70.67

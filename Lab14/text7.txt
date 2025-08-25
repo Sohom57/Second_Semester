@@ -1,0 +1,4 @@
+Name: Yead, Marks= 2
+Name: Riyad, Marks= 3
+Name: Rifath, Marks= 14
+Name: Sohom, Marks= 8
